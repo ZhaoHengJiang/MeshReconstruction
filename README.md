@@ -47,21 +47,14 @@ TorchVision 0.5.0 https://pypi.tuna.tsinghua.edu.cn/simple/torchvision/
 
 1-D1977点云的迭代重建，第一张图片是目标点云，从第二张图片的初始网格不断形变获得最终结果，可以很好解决鼻子裂缝问题，面部轮廓可以正确重建。
 
-![-1](D:\1-D1977-13000\-1.png)
-
-![0](D:\1-D1977-13000\0.png)
-
-![1](D:\1-D1977-13000\1.png)
-
-![2](D:\1-D1977-13000\2.png)
-
-![3](D:\1-D1977-13000\3.png)
-
-![4](D:\1-D1977-13000\4.png)
-
-![5](D:\1-D1977-13000\5.png)
-
-![6](D:\1-D1977-13000\6.png)
+![-1](https://github.com/ZhaoHengJiang/MeshReconstruction/blob/main/IMG/-1.png)
+![0](https://github.com/ZhaoHengJiang/MeshReconstruction/blob/main/IMG/0.png)
+![1](https://github.com/ZhaoHengJiang/MeshReconstruction/blob/main/IMG/1.png)
+![2](https://github.com/ZhaoHengJiang/MeshReconstruction/blob/main/IMG/2.png)
+![3](https://github.com/ZhaoHengJiang/MeshReconstruction/blob/main/IMG/3.png)
+![4](https://github.com/ZhaoHengJiang/MeshReconstruction/blob/main/IMG/4.png)
+![5](https://github.com/ZhaoHengJiang/MeshReconstruction/blob/main/IMG/5.png)
+![6](https://github.com/ZhaoHengJiang/MeshReconstruction/blob/main/IMG/6.png)
 
 # 目前存在的问题
 
