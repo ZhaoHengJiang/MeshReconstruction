@@ -1,0 +1,1 @@
+python main.py --input-pc ./data/1-D1977.ply --initial-mesh ./data/1-D1977.obj --save-path ./checkpoints/1-D1977 --iterations 30000 --samples 46577 --begin-samples 36577 --upsamp 1000 --max-faces 13000 
